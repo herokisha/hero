@@ -1,1 +1,2 @@
-eyzalts: node bot.3.js
+worker: node bot.3.js
+
